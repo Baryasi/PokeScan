@@ -1,0 +1,5 @@
+__pycache__/
+build/
+.buildenv/
+*.spec
+dist/PokeScan.exe
